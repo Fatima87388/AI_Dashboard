@@ -19,4 +19,4 @@ This project explores the impact of AI (ChatGPT) on learning using meta-analytic
 [View Full Project (Sway Presentation)](https://sway.cloud.microsoft/1481SQX0DjZpceL7?ref=Link&loc=play)
 
 ## 📊 Dashboard Files
-[Download Dashboard (Tableau + Report)](Dashboard.zip)
+[Download Dashboard (Tableau + Report)](dashboard.zip)
